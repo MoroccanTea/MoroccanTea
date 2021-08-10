@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning C & trying to master Python.
 - 📫 How to reach me : essadhamza@outlook.fr
 
-- name: Profile Readme Stats
-  uses: teoxoy/profile-readme-stats@v1.2
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoroccanTea)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!---
 MoroccanTea/MoroccanTea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
