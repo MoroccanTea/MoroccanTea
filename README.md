@@ -7,7 +7,8 @@ I mostly work on private projects, but I'd love to help you with whatever you ne
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MoroccanTea)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<script src="https://tryhackme.com/badge/68883"></script>
+<script src="https://www.hackthebox.eu/badge/687275"></script>
 
 <!---
 MoroccanTea/MoroccanTea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
