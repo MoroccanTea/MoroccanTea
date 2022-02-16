@@ -8,10 +8,8 @@ I mostly work on private projects, but I'd love to help you with whatever you ne
 _________________________________________________________________________________________________________________________________________________________________________
 
 <image src="https://tryhackme-badges.s3.amazonaws.com/MoroccanTea.png" alt="TryHackMe">
-_________________________________________________________________________________________________________________________________________________________________________
 
 <img src="https://www.hackthebox.eu/badge/image/687275" alt="Hack The Box">
-_________________________________________________________________________________________________________________________________________________________________________
 <!---
 MoroccanTea/MoroccanTea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
