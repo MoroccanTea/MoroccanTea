@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MoroccanTea, I'm a young computer science student.
-- 👀 I’m interested in Cybersecurity, scripting w/ Python, but also Java & Javascript.
-- 🌱 I’m currently learning C & trying to master Python, and working on my personal website.
+- 👀 I’m interested in Cybersecurity, scripting w/ Bash, Python, but also Java & Javascript.
+- 🌱 I’m currently learning C & trying to master Python.
 - 📫 How to reach me : hamza@essad.ma
 - ☕ You can also buy me a coffee @ : https://www.buymeacoffee.com/moroccantea
 
