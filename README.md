@@ -5,7 +5,7 @@
 - 👀 I’m interested in Cybersecurity, scripting w/ Bash, Python, but also Java & Javascript.
 - 🌱 I’m currently learning C & trying to master Python.
 - 📫 How to reach me : hamza@essad.ma
-- ☕ You can also buy me a coffee @ : https://www.buymeacoffee.com/moroccantea
+- ☕ You can also buy me a [Ko-Fi](https://ko-fi.com/moroccantea)
 
 I mostly work on private projects, but I'd love to help you with whatever you need, just ask ! ;) 
 
