@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Hamza%20ESSAD-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-essad/ "Connect on LinkedIn")
 [![Gmail Badge](https://img.shields.io/badge/-hamza@essad.ma-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hamza@essad.ma)](mailto:hamza@essad.ma)
 - 👋 Hi, I’m @MoroccanTea, I'm a cybersecurity expert from Morocco.
-- 👀 I’m passionate about in Cybersecurity & AI.
+- 👀 I’m passionate about Cybersecurity & AI.
 - 🌱 I’m currently learning C# & improving my pentesting knowledge.
 - 📫 How to reach me : hamza@essad.ma
 - ☕ You can also buy me a [Ko-Fi](https://ko-fi.com/moroccantea)
