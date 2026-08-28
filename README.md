@@ -56,11 +56,15 @@
 ### 🏆 My Cyber Achievements
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/MoroccanTea.png" alt="TryHackMe" height="120"/>
-  <img src="https://www.hackthebox.eu/badge/image/687275" alt="Hack The Box" height="120"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/MoroccanTea.png" alt="TryHackMe" height="60"/>
+  <img src="https://www.hackthebox.eu/badge/image/687275" alt="Hack The Box" height="250"/>
 </p>
 
 ---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/HOTHEAD01TH/HOTHEAD01TH/output/snake.svg" alt="Sneeeek"/>
+</p>
 
 ### 📊 GitHub Stats
 
@@ -77,3 +81,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MoroccanTea&color=brightgreen" alt="profile views"/>
 </p>
+
+---
